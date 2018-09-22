@@ -1,0 +1,5 @@
+qam.m 生成8qam对应的ber和snr关系
+qam16.m 生成16qam对应的ber和snr关系
+qpsk.m 生成qpsk对应的ber和snr关系
+qam16_refine.m 生成改进的16qam对应的ber和snr关系
+其他txt文件都是一些结果文件
